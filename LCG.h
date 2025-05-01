@@ -13,7 +13,7 @@ private:
     int generateRandomIntegerNumberBack() override;
 
 public:
-    LCG(int mod, int a, int c, int seed);
+    LCG(int xi, int a, int c, int mod);
     ~LCG() override;
 };
 
