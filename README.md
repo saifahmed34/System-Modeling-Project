@@ -65,7 +65,7 @@ rng.printNTests(10);
 
 ---
 
-## 📈 Sample Output (from `printNTests(3)`)
+## 📈 Sample Output (from `printNTests(10)`)
 
 ```
 |Iteration |Random Number       |Random Real Number
